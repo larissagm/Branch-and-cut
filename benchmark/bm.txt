@@ -1,0 +1,2078 @@
+instances/a280.tsp
+Tempo: 61.127687
+Custo: 2579.000000
+
+Tempo: 61.609984
+Custo: 2579.000000
+
+Tempo: 57.002107
+Custo: 2579.000000
+
+Tempo: 58.990042
+Custo: 2579.000000
+
+Tempo: 62.961885
+Custo: 2579.000000
+
+Tempo: 58.777964
+Custo: 2579.000000
+
+Tempo: 60.466528
+Custo: 2579.000000
+
+Tempo: 60.143413
+Custo: 2579.000000
+
+Tempo: 64.617932
+Custo: 2579.000000
+
+Tempo: 59.348935
+Custo: 2579.000000
+
+instances/ali535.tsp
+Tempo: 1133.818946
+Custo: 202433.000000
+
+Tempo: 1013.481497
+Custo: 202339.000000
+
+Tempo: 1070.935280
+Custo: 202523.000000
+
+Tempo: 1337.948866
+Custo: 202433.000000
+
+Tempo: 1364.921428
+Custo: 202411.000000
+
+Tempo: 1189.508970
+Custo: 202413.000000
+
+Tempo: 1364.822284
+Custo: 202520.000000
+
+Tempo: 1777.678044
+Custo: 202411.000000
+
+Tempo: 1384.683079
+Custo: 202549.000000
+
+Tempo: 1287.198481
+Custo: 202349.000000
+
+instances/att48.tsp
+Tempo: 0.227986
+Custo: 10628.000000
+
+Tempo: 0.228747
+Custo: 10628.000000
+
+Tempo: 0.237544
+Custo: 10628.000000
+
+Tempo: 0.231150
+Custo: 10628.000000
+
+Tempo: 0.228762
+Custo: 10628.000000
+
+Tempo: 0.245266
+Custo: 10628.000000
+
+Tempo: 0.260790
+Custo: 10628.000000
+
+Tempo: 0.238099
+Custo: 10628.000000
+
+Tempo: 0.225659
+Custo: 10628.000000
+
+Tempo: 0.248574
+Custo: 10628.000000
+
+instances/att532.tsp
+Tempo: 1269.405526
+Custo: 27735.000000
+
+Tempo: 1052.888363
+Custo: 27749.000000
+
+Tempo: 1010.124129
+Custo: 27735.000000
+
+Tempo: 1027.370039
+Custo: 27732.000000
+
+Tempo: 1060.719086
+Custo: 27747.000000
+
+Tempo: 1104.690648
+Custo: 27749.000000
+
+Tempo: 973.085421
+Custo: 27725.000000
+
+Tempo: 978.269679
+Custo: 27708.000000
+
+Tempo: 1000.354893
+Custo: 27756.000000
+
+Tempo: 951.460822
+Custo: 27768.000000
+
+instances/bayg29.tsp
+Tempo: 0.036348
+Custo: 1610.000000
+
+Tempo: 0.034772
+Custo: 1610.000000
+
+Tempo: 0.034641
+Custo: 1610.000000
+
+Tempo: 0.034600
+Custo: 1610.000000
+
+Tempo: 0.034553
+Custo: 1610.000000
+
+Tempo: 0.034565
+Custo: 1610.000000
+
+Tempo: 0.034635
+Custo: 1610.000000
+
+Tempo: 0.034553
+Custo: 1610.000000
+
+Tempo: 0.034559
+Custo: 1610.000000
+
+Tempo: 0.034591
+Custo: 1610.000000
+
+instances/bays29.tsp
+Tempo: 0.037033
+Custo: 2020.000000
+
+Tempo: 0.035906
+Custo: 2020.000000
+
+Tempo: 0.035947
+Custo: 2020.000000
+
+Tempo: 0.036033
+Custo: 2020.000000
+
+Tempo: 0.055209
+Custo: 2020.000000
+
+Tempo: 0.036637
+Custo: 2020.000000
+
+Tempo: 0.038795
+Custo: 2020.000000
+
+Tempo: 0.036080
+Custo: 2020.000000
+
+Tempo: 0.036204
+Custo: 2020.000000
+
+Tempo: 0.036138
+Custo: 2020.000000
+
+instances/berlin52.tsp
+Tempo: 0.269726
+Custo: 7542.000000
+
+Tempo: 0.268049
+Custo: 7542.000000
+
+Tempo: 0.267997
+Custo: 7542.000000
+
+Tempo: 0.253558
+Custo: 7542.000000
+
+Tempo: 0.252773
+Custo: 7542.000000
+
+Tempo: 0.252237
+Custo: 7542.000000
+
+Tempo: 0.255879
+Custo: 7542.000000
+
+Tempo: 0.269565
+Custo: 7542.000000
+
+Tempo: 0.271085
+Custo: 7542.000000
+
+Tempo: 0.268979
+Custo: 7542.000000
+
+instances/bier127.tsp
+Tempo: 7.326496
+Custo: 118282.000000
+
+Tempo: 7.174378
+Custo: 118282.000000
+
+Tempo: 7.298759
+Custo: 118282.000000
+
+Tempo: 7.272580
+Custo: 118282.000000
+
+Tempo: 7.510594
+Custo: 118282.000000
+
+Tempo: 7.428462
+Custo: 118282.000000
+
+Tempo: 7.387802
+Custo: 118282.000000
+
+Tempo: 7.098869
+Custo: 118282.000000
+
+Tempo: 7.072437
+Custo: 118282.000000
+
+Tempo: 7.029981
+Custo: 118282.000000
+
+instances/brazil58.tsp
+Tempo: 0.370877
+Custo: 25395.000000
+
+Tempo: 0.376633
+Custo: 25395.000000
+
+Tempo: 0.348035
+Custo: 25395.000000
+
+Tempo: 0.348191
+Custo: 25395.000000
+
+Tempo: 0.357330
+Custo: 25395.000000
+
+Tempo: 0.352229
+Custo: 25395.000000
+
+Tempo: 0.359293
+Custo: 25395.000000
+
+Tempo: 0.345391
+Custo: 25395.000000
+
+Tempo: 0.343490
+Custo: 25395.000000
+
+Tempo: 0.346314
+Custo: 25395.000000
+
+instances/brg180.tsp
+Tempo: 8.173414
+Custo: 1950.000000
+
+Tempo: 7.698987
+Custo: 1950.000000
+
+Tempo: 7.521745
+Custo: 1950.000000
+
+Tempo: 8.209951
+Custo: 1950.000000
+
+Tempo: 7.956518
+Custo: 1950.000000
+
+Tempo: 8.440273
+Custo: 1950.000000
+
+Tempo: 8.173356
+Custo: 1950.000000
+
+Tempo: 7.980361
+Custo: 1950.000000
+
+Tempo: 8.169631
+Custo: 1950.000000
+
+Tempo: 8.248354
+Custo: 1950.000000
+
+instances/burma14.tsp
+Tempo: 0.002817
+Custo: 3323.000000
+
+Tempo: 0.003176
+Custo: 3323.000000
+
+Tempo: 0.002830
+Custo: 3323.000000
+
+Tempo: 0.002924
+Custo: 3323.000000
+
+Tempo: 0.003093
+Custo: 3323.000000
+
+Tempo: 0.002913
+Custo: 3323.000000
+
+Tempo: 0.002817
+Custo: 3323.000000
+
+Tempo: 0.002878
+Custo: 3323.000000
+
+Tempo: 0.002822
+Custo: 3323.000000
+
+Tempo: 0.002858
+Custo: 3323.000000
+
+instances/ch130.tsp
+Tempo: 7.278130
+Custo: 6110.000000
+
+Tempo: 7.868236
+Custo: 6110.000000
+
+Tempo: 7.736387
+Custo: 6110.000000
+
+Tempo: 7.376055
+Custo: 6110.000000
+
+Tempo: 7.837516
+Custo: 6110.000000
+
+Tempo: 8.299100
+Custo: 6110.000000
+
+Tempo: 8.591000
+Custo: 6110.000000
+
+Tempo: 8.831157
+Custo: 6110.000000
+
+Tempo: 7.247016
+Custo: 6110.000000
+
+Tempo: 7.097592
+Custo: 6110.000000
+
+instances/ch150.tsp
+Tempo: 7.268243
+Custo: 6528.000000
+
+Tempo: 7.283815
+Custo: 6528.000000
+
+Tempo: 7.212806
+Custo: 6528.000000
+
+Tempo: 7.279973
+Custo: 6528.000000
+
+Tempo: 6.757102
+Custo: 6528.000000
+
+Tempo: 7.600902
+Custo: 6528.000000
+
+Tempo: 6.993921
+Custo: 6528.000000
+
+Tempo: 7.177465
+Custo: 6528.000000
+
+Tempo: 6.967644
+Custo: 6528.000000
+
+Tempo: 7.223620
+Custo: 6528.000000
+
+instances/d198.tsp
+Tempo: 20.569375
+Custo: 15780.000000
+
+Tempo: 20.020129
+Custo: 15780.000000
+
+Tempo: 21.060128
+Custo: 15780.000000
+
+Tempo: 19.548128
+Custo: 15780.000000
+
+Tempo: 20.702224
+Custo: 15780.000000
+
+Tempo: 20.259258
+Custo: 15780.000000
+
+Tempo: 20.235345
+Custo: 15780.000000
+
+Tempo: 21.102182
+Custo: 15780.000000
+
+Tempo: 20.632408
+Custo: 15780.000000
+
+Tempo: 20.411001
+Custo: 15780.000000
+
+instances/dantzig42.tsp
+Tempo: 0.137844
+Custo: 699.000000
+
+Tempo: 0.119286
+Custo: 699.000000
+
+Tempo: 0.119812
+Custo: 699.000000
+
+Tempo: 0.120262
+Custo: 699.000000
+
+Tempo: 0.119939
+Custo: 699.000000
+
+Tempo: 0.120929
+Custo: 699.000000
+
+Tempo: 0.122105
+Custo: 699.000000
+
+Tempo: 0.122533
+Custo: 699.000000
+
+Tempo: 0.121780
+Custo: 699.000000
+
+Tempo: 0.121967
+Custo: 699.000000
+
+instances/eil101.tsp
+Tempo: 2.978867
+Custo: 629.000000
+
+Tempo: 3.055241
+Custo: 629.000000
+
+Tempo: 2.948687
+Custo: 629.000000
+
+Tempo: 2.950820
+Custo: 629.000000
+
+Tempo: 2.910706
+Custo: 629.000000
+
+Tempo: 2.823180
+Custo: 629.000000
+
+Tempo: 2.786643
+Custo: 629.000000
+
+Tempo: 2.979786
+Custo: 629.000000
+
+Tempo: 2.878887
+Custo: 629.000000
+
+Tempo: 2.977378
+Custo: 629.000000
+
+instances/eil51.tsp
+Tempo: 0.266076
+Custo: 426.000000
+
+Tempo: 0.272474
+Custo: 426.000000
+
+Tempo: 0.274205
+Custo: 426.000000
+
+Tempo: 0.271549
+Custo: 426.000000
+
+Tempo: 0.277201
+Custo: 426.000000
+
+Tempo: 0.264507
+Custo: 426.000000
+
+Tempo: 0.265427
+Custo: 426.000000
+
+Tempo: 0.265576
+Custo: 426.000000
+
+Tempo: 0.261858
+Custo: 426.000000
+
+Tempo: 0.260525
+Custo: 426.000000
+
+instances/eil76.tsp
+Tempo: 1.109201
+Custo: 538.000000
+
+Tempo: 1.023597
+Custo: 538.000000
+
+Tempo: 1.067675
+Custo: 538.000000
+
+Tempo: 1.061481
+Custo: 538.000000
+
+Tempo: 1.016546
+Custo: 538.000000
+
+Tempo: 1.025039
+Custo: 538.000000
+
+Tempo: 1.038947
+Custo: 538.000000
+
+Tempo: 1.065470
+Custo: 538.000000
+
+Tempo: 1.073214
+Custo: 538.000000
+
+Tempo: 1.065951
+Custo: 538.000000
+
+instances/fl417.tsp
+Tempo: 261.487520
+Custo: 11861.000000
+
+Tempo: 241.071886
+Custo: 11861.000000
+
+Tempo: 245.740670
+Custo: 11861.000000
+
+Tempo: 248.793845
+Custo: 11861.000000
+
+Tempo: 251.049539
+Custo: 11861.000000
+
+Tempo: 236.927814
+Custo: 11861.000000
+
+Tempo: 239.395406
+Custo: 11861.000000
+
+Tempo: 246.341570
+Custo: 11861.000000
+
+Tempo: 242.288083
+Custo: 11861.000000
+
+Tempo: 239.110482
+Custo: 11861.000000
+
+instances/fri26.tsp
+Tempo: 0.025995
+Custo: 937.000000
+
+Tempo: 0.024468
+Custo: 937.000000
+
+Tempo: 0.024328
+Custo: 937.000000
+
+Tempo: 0.024413
+Custo: 937.000000
+
+Tempo: 0.024495
+Custo: 937.000000
+
+Tempo: 0.024250
+Custo: 937.000000
+
+Tempo: 0.024331
+Custo: 937.000000
+
+Tempo: 0.024292
+Custo: 937.000000
+
+Tempo: 0.024261
+Custo: 937.000000
+
+Tempo: 0.024344
+Custo: 937.000000
+
+instances/gil262.tsp
+Tempo: 56.623390
+Custo: 2382.000000
+
+Tempo: 54.551966
+Custo: 2379.000000
+
+Tempo: 58.671670
+Custo: 2379.000000
+
+Tempo: 53.138559
+Custo: 2379.000000
+
+Tempo: 56.703016
+Custo: 2378.000000
+
+Tempo: 53.718077
+Custo: 2382.000000
+
+Tempo: 59.549893
+Custo: 2379.000000
+
+Tempo: 57.495287
+Custo: 2380.000000
+
+Tempo: 55.331917
+Custo: 2380.000000
+
+Tempo: 58.832388
+Custo: 2379.000000
+
+instances/gr120.tsp
+Tempo: 6.302559
+Custo: 6942.000000
+
+Tempo: 6.371298
+Custo: 6942.000000
+
+Tempo: 6.626357
+Custo: 6942.000000
+
+Tempo: 5.752155
+Custo: 6942.000000
+
+Tempo: 6.572550
+Custo: 6942.000000
+
+Tempo: 6.409989
+Custo: 6942.000000
+
+Tempo: 6.248171
+Custo: 6942.000000
+
+Tempo: 5.594137
+Custo: 6942.000000
+
+Tempo: 5.585785
+Custo: 6942.000000
+
+Tempo: 5.902936
+Custo: 6942.000000
+
+instances/gr137.tsp
+Tempo: 7.511673
+Custo: 69853.000000
+
+Tempo: 7.812619
+Custo: 69853.000000
+
+Tempo: 7.394829
+Custo: 69853.000000
+
+Tempo: 7.731817
+Custo: 69853.000000
+
+Tempo: 7.460496
+Custo: 69853.000000
+
+Tempo: 7.846949
+Custo: 69853.000000
+
+Tempo: 7.850073
+Custo: 69853.000000
+
+Tempo: 7.606008
+Custo: 69853.000000
+
+Tempo: 7.498259
+Custo: 69853.000000
+
+Tempo: 7.656594
+Custo: 69853.000000
+
+instances/gr17.tsp
+Tempo: 0.015196
+Custo: 2085.000000
+
+Tempo: 0.010768
+Custo: 2085.000000
+
+Tempo: 0.007564
+Custo: 2085.000000
+
+Tempo: 0.007178
+Custo: 2085.000000
+
+Tempo: 0.005962
+Custo: 2085.000000
+
+Tempo: 0.005779
+Custo: 2085.000000
+
+Tempo: 0.005768
+Custo: 2085.000000
+
+Tempo: 0.005752
+Custo: 2085.000000
+
+Tempo: 0.005766
+Custo: 2085.000000
+
+Tempo: 0.005772
+Custo: 2085.000000
+
+instances/gr202.tsp
+Tempo: 23.623324
+Custo: 40160.000000
+
+Tempo: 26.112320
+Custo: 40160.000000
+
+Tempo: 24.535645
+Custo: 40160.000000
+
+Tempo: 24.334830
+Custo: 40160.000000
+
+Tempo: 24.814280
+Custo: 40161.000000
+
+Tempo: 25.879462
+Custo: 40160.000000
+
+Tempo: 24.580102
+Custo: 40160.000000
+
+Tempo: 23.582880
+Custo: 40161.000000
+
+Tempo: 25.576037
+Custo: 40160.000000
+
+Tempo: 24.328337
+Custo: 40160.000000
+
+instances/gr21.tsp
+Tempo: 0.010508
+Custo: 2707.000000
+
+Tempo: 0.010622
+Custo: 2707.000000
+
+Tempo: 0.010099
+Custo: 2707.000000
+
+Tempo: 0.010184
+Custo: 2707.000000
+
+Tempo: 0.010208
+Custo: 2707.000000
+
+Tempo: 0.010372
+Custo: 2707.000000
+
+Tempo: 0.010156
+Custo: 2707.000000
+
+Tempo: 0.010112
+Custo: 2707.000000
+
+Tempo: 0.010172
+Custo: 2707.000000
+
+Tempo: 0.010110
+Custo: 2707.000000
+
+instances/gr229.tsp
+Tempo: 39.892578
+Custo: 134670.000000
+
+Tempo: 36.095138
+Custo: 134616.000000
+
+Tempo: 38.797572
+Custo: 134602.000000
+
+Tempo: 38.712543
+Custo: 134616.000000
+
+Tempo: 38.407523
+Custo: 134602.000000
+
+Tempo: 38.757562
+Custo: 134658.000000
+
+Tempo: 37.248127
+Custo: 134602.000000
+
+Tempo: 37.259065
+Custo: 134644.000000
+
+Tempo: 36.136152
+Custo: 134644.000000
+
+Tempo: 40.282987
+Custo: 134602.000000
+
+instances/gr24.tsp
+Tempo: 0.019551
+Custo: 1272.000000
+
+Tempo: 0.018765
+Custo: 1272.000000
+
+Tempo: 0.018800
+Custo: 1272.000000
+
+Tempo: 0.018564
+Custo: 1272.000000
+
+Tempo: 0.018612
+Custo: 1272.000000
+
+Tempo: 0.018676
+Custo: 1272.000000
+
+Tempo: 0.018558
+Custo: 1272.000000
+
+Tempo: 0.018605
+Custo: 1272.000000
+
+Tempo: 0.018555
+Custo: 1272.000000
+
+Tempo: 0.018583
+Custo: 1272.000000
+
+instances/gr431.tsp
+Tempo: 472.229180
+Custo: 171551.000000
+
+Tempo: 444.078434
+Custo: 171585.000000
+
+Tempo: 444.175179
+Custo: 171613.000000
+
+Tempo: 439.407150
+Custo: 171544.000000
+
+Tempo: 468.674404
+Custo: 171546.000000
+
+Tempo: 451.107249
+Custo: 171647.000000
+
+Tempo: 455.442844
+Custo: 171528.000000
+
+Tempo: 489.627694
+Custo: 171459.000000
+
+Tempo: 435.494498
+Custo: 171493.000000
+
+Tempo: 474.585849
+Custo: 171589.000000
+
+instances/gr48.tsp
+Tempo: 0.209071
+Custo: 5046.000000
+
+Tempo: 0.210609
+Custo: 5046.000000
+
+Tempo: 0.210809
+Custo: 5046.000000
+
+Tempo: 0.210353
+Custo: 5046.000000
+
+Tempo: 0.209211
+Custo: 5046.000000
+
+Tempo: 0.210581
+Custo: 5046.000000
+
+Tempo: 0.217944
+Custo: 5046.000000
+
+Tempo: 0.200927
+Custo: 5046.000000
+
+Tempo: 0.200980
+Custo: 5046.000000
+
+Tempo: 0.200311
+Custo: 5046.000000
+
+instances/gr96.tsp
+Tempo: 2.383756
+Custo: 55209.000000
+
+Tempo: 2.255231
+Custo: 55209.000000
+
+Tempo: 2.269669
+Custo: 55209.000000
+
+Tempo: 2.366688
+Custo: 55209.000000
+
+Tempo: 2.336717
+Custo: 55209.000000
+
+Tempo: 2.393717
+Custo: 55209.000000
+
+Tempo: 2.425556
+Custo: 55209.000000
+
+Tempo: 2.305686
+Custo: 55209.000000
+
+Tempo: 2.428241
+Custo: 55209.000000
+
+Tempo: 2.247594
+Custo: 55209.000000
+
+instances/hk48.tsp
+Tempo: 0.211300
+Custo: 11461.000000
+
+Tempo: 0.210218
+Custo: 11461.000000
+
+Tempo: 0.210248
+Custo: 11461.000000
+
+Tempo: 0.211226
+Custo: 11461.000000
+
+Tempo: 0.267666
+Custo: 11461.000000
+
+Tempo: 0.222621
+Custo: 11461.000000
+
+Tempo: 0.220888
+Custo: 11461.000000
+
+Tempo: 0.220984
+Custo: 11461.000000
+
+Tempo: 0.223818
+Custo: 11461.000000
+
+Tempo: 0.233377
+Custo: 11461.000000
+
+instances/kroA100.tsp
+Tempo: 2.450113
+Custo: 21282.000000
+
+Tempo: 2.399019
+Custo: 21282.000000
+
+Tempo: 2.423140
+Custo: 21282.000000
+
+Tempo: 2.434628
+Custo: 21282.000000
+
+Tempo: 2.462878
+Custo: 21282.000000
+
+Tempo: 2.419603
+Custo: 21282.000000
+
+Tempo: 2.486135
+Custo: 21282.000000
+
+Tempo: 3.078575
+Custo: 21282.000000
+
+Tempo: 3.077912
+Custo: 21282.000000
+
+Tempo: 3.213259
+Custo: 21282.000000
+
+instances/kroA150.tsp
+Tempo: 8.895183
+Custo: 26524.000000
+
+Tempo: 7.654851
+Custo: 26524.000000
+
+Tempo: 7.647191
+Custo: 26524.000000
+
+Tempo: 7.452822
+Custo: 26524.000000
+
+Tempo: 7.827273
+Custo: 26524.000000
+
+Tempo: 8.140730
+Custo: 26524.000000
+
+Tempo: 7.944141
+Custo: 26524.000000
+
+Tempo: 7.828566
+Custo: 26524.000000
+
+Tempo: 7.913695
+Custo: 26524.000000
+
+Tempo: 7.650048
+Custo: 26524.000000
+
+instances/kroA200.tsp
+Tempo: 20.750399
+Custo: 29368.000000
+
+Tempo: 22.596092
+Custo: 29368.000000
+
+Tempo: 22.966023
+Custo: 29368.000000
+
+Tempo: 22.059685
+Custo: 29368.000000
+
+Tempo: 20.665344
+Custo: 29368.000000
+
+Tempo: 21.962390
+Custo: 29368.000000
+
+Tempo: 22.085717
+Custo: 29368.000000
+
+Tempo: 21.371025
+Custo: 29368.000000
+
+Tempo: 21.327147
+Custo: 29368.000000
+
+Tempo: 21.714422
+Custo: 29368.000000
+
+instances/kroB100.tsp
+Tempo: 2.726810
+Custo: 22141.000000
+
+Tempo: 2.712313
+Custo: 22141.000000
+
+Tempo: 2.572162
+Custo: 22141.000000
+
+Tempo: 2.610515
+Custo: 22141.000000
+
+Tempo: 2.714788
+Custo: 22141.000000
+
+Tempo: 2.496476
+Custo: 22141.000000
+
+Tempo: 2.719201
+Custo: 22141.000000
+
+Tempo: 2.583240
+Custo: 22141.000000
+
+Tempo: 2.621862
+Custo: 22141.000000
+
+Tempo: 2.653602
+Custo: 22141.000000
+
+instances/kroB150.tsp
+Tempo: 7.301363
+Custo: 26130.000000
+
+Tempo: 7.463792
+Custo: 26130.000000
+
+Tempo: 7.399847
+Custo: 26130.000000
+
+Tempo: 7.229749
+Custo: 26130.000000
+
+Tempo: 7.565311
+Custo: 26130.000000
+
+Tempo: 7.508912
+Custo: 26130.000000
+
+Tempo: 7.592850
+Custo: 26130.000000
+
+Tempo: 7.221025
+Custo: 26130.000000
+
+Tempo: 7.948340
+Custo: 26130.000000
+
+Tempo: 7.532896
+Custo: 26130.000000
+
+instances/kroB200.tsp
+Tempo: 24.355900
+Custo: 29438.000000
+
+Tempo: 24.672759
+Custo: 29437.000000
+
+Tempo: 25.152452
+Custo: 29437.000000
+
+Tempo: 22.950043
+Custo: 29437.000000
+
+Tempo: 24.345083
+Custo: 29437.000000
+
+Tempo: 23.913803
+Custo: 29438.000000
+
+Tempo: 25.592331
+Custo: 29437.000000
+
+Tempo: 23.592570
+Custo: 29439.000000
+
+Tempo: 25.586632
+Custo: 29437.000000
+
+Tempo: 25.021611
+Custo: 29437.000000
+
+instances/kroC100.tsp
+Tempo: 2.360728
+Custo: 20749.000000
+
+Tempo: 2.511495
+Custo: 20749.000000
+
+Tempo: 2.453622
+Custo: 20749.000000
+
+Tempo: 2.405071
+Custo: 20749.000000
+
+Tempo: 2.687007
+Custo: 20749.000000
+
+Tempo: 2.566989
+Custo: 20749.000000
+
+Tempo: 2.588925
+Custo: 20749.000000
+
+Tempo: 2.440111
+Custo: 20749.000000
+
+Tempo: 2.595556
+Custo: 20749.000000
+
+Tempo: 2.535135
+Custo: 20749.000000
+
+instances/kroD100.tsp
+Tempo: 2.905815
+Custo: 21294.000000
+
+Tempo: 2.894781
+Custo: 21294.000000
+
+Tempo: 2.894864
+Custo: 21294.000000
+
+Tempo: 2.763338
+Custo: 21294.000000
+
+Tempo: 2.573672
+Custo: 21294.000000
+
+Tempo: 2.684899
+Custo: 21294.000000
+
+Tempo: 2.671136
+Custo: 21294.000000
+
+Tempo: 2.686951
+Custo: 21294.000000
+
+Tempo: 2.817815
+Custo: 21294.000000
+
+Tempo: 2.793652
+Custo: 21294.000000
+
+instances/kroE100.tsp
+Tempo: 2.832025
+Custo: 22068.000000
+
+Tempo: 2.992799
+Custo: 22068.000000
+
+Tempo: 2.553680
+Custo: 22068.000000
+
+Tempo: 2.768779
+Custo: 22068.000000
+
+Tempo: 2.654461
+Custo: 22068.000000
+
+Tempo: 2.647259
+Custo: 22068.000000
+
+Tempo: 2.750382
+Custo: 22068.000000
+
+Tempo: 2.753746
+Custo: 22068.000000
+
+Tempo: 2.656689
+Custo: 22068.000000
+
+Tempo: 2.793526
+Custo: 22068.000000
+
+instances/lin105.tsp
+Tempo: 3.143524
+Custo: 14379.000000
+
+Tempo: 3.027762
+Custo: 14379.000000
+
+Tempo: 3.057101
+Custo: 14379.000000
+
+Tempo: 3.154483
+Custo: 14379.000000
+
+Tempo: 3.003831
+Custo: 14379.000000
+
+Tempo: 3.123419
+Custo: 14379.000000
+
+Tempo: 3.161300
+Custo: 14379.000000
+
+Tempo: 3.123065
+Custo: 14379.000000
+
+Tempo: 3.079322
+Custo: 14379.000000
+
+Tempo: 2.909879
+Custo: 14379.000000
+
+instances/lin318.tsp
+Tempo: 115.414651
+Custo: 42029.000000
+
+Tempo: 116.497794
+Custo: 42029.000000
+
+Tempo: 123.847584
+Custo: 42029.000000
+
+Tempo: 122.044271
+Custo: 42029.000000
+
+Tempo: 120.252353
+Custo: 42091.000000
+
+Tempo: 115.340620
+Custo: 42029.000000
+
+Tempo: 121.158395
+Custo: 42091.000000
+
+Tempo: 118.245004
+Custo: 42091.000000
+
+Tempo: 116.724472
+Custo: 42029.000000
+
+Tempo: 109.270844
+Custo: 42091.000000
+
+instances/linhp318.tsp
+Tempo: 119.391167
+Custo: 42050.000000
+
+Tempo: 127.899147
+Custo: 42029.000000
+
+Tempo: 117.529398
+Custo: 42091.000000
+
+Tempo: 114.826863
+Custo: 42091.000000
+
+Tempo: 126.066273
+Custo: 42080.000000
+
+Tempo: 118.603474
+Custo: 42091.000000
+
+Tempo: 114.598088
+Custo: 42029.000000
+
+Tempo: 121.676166
+Custo: 42091.000000
+
+Tempo: 121.816722
+Custo: 42050.000000
+
+Tempo: 117.061141
+Custo: 42097.000000
+
+instances/pcb442.tsp
+Tempo: 383.167010
+Custo: 50817.000000
+
+Tempo: 411.086570
+Custo: 50894.000000
+
+Tempo: 405.250826
+Custo: 50961.000000
+
+Tempo: 379.892200
+Custo: 50808.000000
+
+Tempo: 405.121025
+Custo: 50925.000000
+
+Tempo: 390.560757
+Custo: 50900.000000
+
+Tempo: 361.159608
+Custo: 50964.000000
+
+Tempo: 371.053626
+Custo: 50911.000000
+
+Tempo: 402.415211
+Custo: 50924.000000
+
+Tempo: 387.059396
+Custo: 50958.000000
+
+instances/pr107.tsp
+Tempo: 3.230890
+Custo: 44303.000000
+
+Tempo: 3.231269
+Custo: 44303.000000
+
+Tempo: 3.142439
+Custo: 44303.000000
+
+Tempo: 3.328336
+Custo: 44303.000000
+
+Tempo: 3.239563
+Custo: 44303.000000
+
+Tempo: 3.365223
+Custo: 44303.000000
+
+Tempo: 3.162866
+Custo: 44303.000000
+
+Tempo: 3.184418
+Custo: 44303.000000
+
+Tempo: 3.285922
+Custo: 44303.000000
+
+Tempo: 3.083079
+Custo: 44303.000000
+
+instances/pr124.tsp
+Tempo: 4.691015
+Custo: 59030.000000
+
+Tempo: 4.820591
+Custo: 59030.000000
+
+Tempo: 5.009409
+Custo: 59030.000000
+
+Tempo: 4.622871
+Custo: 59030.000000
+
+Tempo: 4.595670
+Custo: 59030.000000
+
+Tempo: 4.609652
+Custo: 59030.000000
+
+Tempo: 4.856724
+Custo: 59030.000000
+
+Tempo: 4.865619
+Custo: 59030.000000
+
+Tempo: 4.585187
+Custo: 59030.000000
+
+Tempo: 4.515238
+Custo: 59030.000000
+
+instances/pr136.tsp
+Tempo: 8.824769
+Custo: 96772.000000
+
+Tempo: 9.274153
+Custo: 96772.000000
+
+Tempo: 8.958162
+Custo: 96772.000000
+
+Tempo: 9.797709
+Custo: 96772.000000
+
+Tempo: 9.100386
+Custo: 96772.000000
+
+Tempo: 9.178530
+Custo: 96772.000000
+
+Tempo: 8.976752
+Custo: 96772.000000
+
+Tempo: 9.217242
+Custo: 96772.000000
+
+Tempo: 8.941313
+Custo: 96772.000000
+
+Tempo: 11.125679
+Custo: 96772.000000
+
+instances/pr144.tsp
+Tempo: 7.663271
+Custo: 58537.000000
+
+Tempo: 7.626540
+Custo: 58537.000000
+
+Tempo: 7.809266
+Custo: 58537.000000
+
+Tempo: 7.779175
+Custo: 58537.000000
+
+Tempo: 7.395516
+Custo: 58537.000000
+
+Tempo: 7.207829
+Custo: 58537.000000
+
+Tempo: 7.576379
+Custo: 58537.000000
+
+Tempo: 7.774463
+Custo: 58537.000000
+
+Tempo: 7.981476
+Custo: 58537.000000
+
+Tempo: 7.333101
+Custo: 58537.000000
+
+instances/pr152.tsp
+Tempo: 6.199260
+Custo: 73682.000000
+
+Tempo: 6.171147
+Custo: 73682.000000
+
+Tempo: 6.277722
+Custo: 73682.000000
+
+Tempo: 6.262410
+Custo: 73682.000000
+
+Tempo: 6.171411
+Custo: 73682.000000
+
+Tempo: 6.078684
+Custo: 73682.000000
+
+Tempo: 6.095577
+Custo: 73682.000000
+
+Tempo: 6.469141
+Custo: 73682.000000
+
+Tempo: 6.090835
+Custo: 73682.000000
+
+Tempo: 6.026706
+Custo: 73682.000000
+
+instances/pr226.tsp
+Tempo: 30.971310
+Custo: 80369.000000
+
+Tempo: 30.293407
+Custo: 80369.000000
+
+Tempo: 29.883118
+Custo: 80369.000000
+
+Tempo: 29.869356
+Custo: 80369.000000
+
+Tempo: 30.692942
+Custo: 80369.000000
+
+Tempo: 30.215142
+Custo: 80369.000000
+
+Tempo: 29.411339
+Custo: 80369.000000
+
+Tempo: 31.070185
+Custo: 80369.000000
+
+Tempo: 31.359687
+Custo: 80369.000000
+
+Tempo: 30.107182
+Custo: 80369.000000
+
+instances/pr264.tsp
+Tempo: 43.478866
+Custo: 49135.000000
+
+Tempo: 40.738369
+Custo: 49135.000000
+
+Tempo: 42.486074
+Custo: 49135.000000
+
+Tempo: 42.670212
+Custo: 49135.000000
+
+Tempo: 43.409134
+Custo: 49135.000000
+
+Tempo: 44.620030
+Custo: 49135.000000
+
+Tempo: 43.033903
+Custo: 49135.000000
+
+Tempo: 42.889654
+Custo: 49135.000000
+
+Tempo: 42.385155
+Custo: 49135.000000
+
+Tempo: 43.427813
+Custo: 49135.000000
+
+instances/pr299.tsp
+Tempo: 85.503556
+Custo: 48191.000000
+
+Tempo: 85.164254
+Custo: 48191.000000
+
+Tempo: 83.078097
+Custo: 48191.000000
+
+Tempo: 83.985987
+Custo: 48191.000000
+
+Tempo: 76.976335
+Custo: 48191.000000
+
+Tempo: 80.948050
+Custo: 48191.000000
+
+Tempo: 88.907980
+Custo: 48191.000000
+
+Tempo: 87.687077
+Custo: 48191.000000
+
+Tempo: 82.911707
+Custo: 48191.000000
+
+Tempo: 91.596486
+Custo: 48191.000000
+
+instances/pr76.tsp
+Tempo: 0.989711
+Custo: 108159.000000
+
+Tempo: 1.056329
+Custo: 108159.000000
+
+Tempo: 1.014113
+Custo: 108159.000000
+
+Tempo: 0.982996
+Custo: 108159.000000
+
+Tempo: 1.058067
+Custo: 108159.000000
+
+Tempo: 0.950243
+Custo: 108159.000000
+
+Tempo: 0.951921
+Custo: 108159.000000
+
+Tempo: 0.966941
+Custo: 108159.000000
+
+Tempo: 0.921743
+Custo: 108159.000000
+
+Tempo: 0.968718
+Custo: 108159.000000
+
+instances/rat195.tsp
+Tempo: 19.077791
+Custo: 2323.000000
+
+Tempo: 18.781675
+Custo: 2323.000000
+
+Tempo: 18.919773
+Custo: 2323.000000
+
+Tempo: 18.701334
+Custo: 2326.000000
+
+Tempo: 18.738561
+Custo: 2323.000000
+
+Tempo: 18.058566
+Custo: 2325.000000
+
+Tempo: 19.889285
+Custo: 2323.000000
+
+Tempo: 19.266649
+Custo: 2323.000000
+
+Tempo: 19.020527
+Custo: 2323.000000
+
+Tempo: 19.830037
+Custo: 2325.000000
+
+instances/rat99.tsp
+Tempo: 2.787125
+Custo: 1211.000000
+
+Tempo: 2.840144
+Custo: 1211.000000
+
+Tempo: 2.821479
+Custo: 1211.000000
+
+Tempo: 2.599245
+Custo: 1211.000000
+
+Tempo: 2.950615
+Custo: 1211.000000
+
+Tempo: 3.062718
+Custo: 1211.000000
+
+Tempo: 2.677869
+Custo: 1211.000000
+
+Tempo: 2.907975
+Custo: 1211.000000
+
+Tempo: 3.023369
+Custo: 1211.000000
+
+Tempo: 2.790981
+Custo: 1211.000000
+
+instances/rd100.tsp
+Tempo: 2.663754
+Custo: 7910.000000
+
+Tempo: 2.675204
+Custo: 7910.000000
+
+Tempo: 2.855175
+Custo: 7910.000000
+
+Tempo: 2.823581
+Custo: 7910.000000
+
+Tempo: 2.669369
+Custo: 7910.000000
+
+Tempo: 2.744812
+Custo: 7910.000000
+
+Tempo: 2.618581
+Custo: 7910.000000
+
+Tempo: 2.719995
+Custo: 7910.000000
+
+Tempo: 2.572727
+Custo: 7910.000000
+
+Tempo: 2.869333
+Custo: 7910.000000
+
+instances/rd400.tsp
+Tempo: 315.182255
+Custo: 15307.000000
+
+Tempo: 317.816327
+Custo: 15289.000000
+
+Tempo: 328.334767
+Custo: 15293.000000
+
+Tempo: 302.020378
+Custo: 15296.000000
+
+Tempo: 325.216571
+Custo: 15309.000000
+
+Tempo: 321.312509
+Custo: 15306.000000
+
+Tempo: 302.004382
+Custo: 15335.000000
+
+Tempo: 331.425070
+Custo: 15294.000000
+
+Tempo: 318.790806
+Custo: 15285.000000
+
+Tempo: 320.184066
+Custo: 15315.000000
+
+instances/si175.tsp
+Tempo: 10.833145
+Custo: 21407.000000
+
+Tempo: 12.196164
+Custo: 21407.000000
+
+Tempo: 10.996171
+Custo: 21407.000000
+
+Tempo: 11.180775
+Custo: 21407.000000
+
+Tempo: 10.923638
+Custo: 21407.000000
+
+Tempo: 11.599352
+Custo: 21407.000000
+
+Tempo: 11.057257
+Custo: 21407.000000
+
+Tempo: 11.409104
+Custo: 21407.000000
+
+Tempo: 11.015058
+Custo: 21407.000000
+
+Tempo: 11.534356
+Custo: 21407.000000
+
+instances/si535.tsp
+Tempo: 581.575967
+Custo: 48453.000000
+
+Tempo: 577.169948
+Custo: 48456.000000
+
+Tempo: 602.543052
+Custo: 48462.000000
+
+Tempo: 575.384522
+Custo: 48454.000000
+
+Tempo: 630.469099
+Custo: 48458.000000
+
+Tempo: 584.931809
+Custo: 48457.000000
+
+Tempo: 606.434627
+Custo: 48461.000000
+
+Tempo: 644.961088
+Custo: 48463.000000
+
+Tempo: 569.474121
+Custo: 48465.000000
+
+Tempo: 574.964798
+Custo: 48451.000000
+
+instances/st70.tsp
+Tempo: 0.763905
+Custo: 675.000000
+
+Tempo: 0.770724
+Custo: 675.000000
+
+Tempo: 0.805881
+Custo: 675.000000
+
+Tempo: 0.765833
+Custo: 675.000000
+
+Tempo: 0.760506
+Custo: 675.000000
+
+Tempo: 0.759981
+Custo: 675.000000
+
+Tempo: 0.748961
+Custo: 675.000000
+
+Tempo: 0.778851
+Custo: 675.000000
+
+Tempo: 0.826199
+Custo: 675.000000
+
+Tempo: 0.696973
+Custo: 675.000000
+
+instances/swiss42.tsp
+Tempo: 0.119119
+Custo: 1273.000000
+
+Tempo: 0.116050
+Custo: 1273.000000
+
+Tempo: 0.113672
+Custo: 1273.000000
+
+Tempo: 0.111234
+Custo: 1273.000000
+
+Tempo: 0.111807
+Custo: 1273.000000
+
+Tempo: 0.110804
+Custo: 1273.000000
+
+Tempo: 0.111520
+Custo: 1273.000000
+
+Tempo: 0.110773
+Custo: 1273.000000
+
+Tempo: 0.110888
+Custo: 1273.000000
+
+Tempo: 0.110724
+Custo: 1273.000000
+
+instances/ts225.tsp
+Tempo: 19.740671
+Custo: 126643.000000
+
+Tempo: 20.276366
+Custo: 126643.000000
+
+Tempo: 20.362942
+Custo: 126643.000000
+
+Tempo: 20.795403
+Custo: 126643.000000
+
+Tempo: 19.966360
+Custo: 126643.000000
+
+Tempo: 20.005741
+Custo: 126643.000000
+
+Tempo: 19.859966
+Custo: 126643.000000
+
+Tempo: 19.870467
+Custo: 126643.000000
+
+Tempo: 19.584488
+Custo: 126643.000000
+
+Tempo: 19.288934
+Custo: 126643.000000
+
+instances/tsp225.tsp
+Tempo: 32.772216
+Custo: 3916.000000
+
+Tempo: 30.441990
+Custo: 3916.000000
+
+Tempo: 30.550608
+Custo: 3916.000000
+
+Tempo: 31.421293
+Custo: 3916.000000
+
+Tempo: 31.786351
+Custo: 3916.000000
+
+Tempo: 31.717607
+Custo: 3916.000000
+
+Tempo: 33.720992
+Custo: 3916.000000
+
+Tempo: 31.355668
+Custo: 3916.000000
+
+Tempo: 30.847410
+Custo: 3916.000000
+
+Tempo: 33.819573
+Custo: 3916.000000
+
+instances/u159.tsp
+Tempo: 7.677786
+Custo: 42080.000000
+
+Tempo: 7.113371
+Custo: 42080.000000
+
+Tempo: 7.545692
+Custo: 42080.000000
+
+Tempo: 7.747442
+Custo: 42080.000000
+
+Tempo: 7.112388
+Custo: 42080.000000
+
+Tempo: 7.818315
+Custo: 42080.000000
+
+Tempo: 7.446857
+Custo: 42080.000000
+
+Tempo: 7.530270
+Custo: 42080.000000
+
+Tempo: 7.536107
+Custo: 42080.000000
+
+Tempo: 7.345868
+Custo: 42080.000000
+
+instances/ulysses16.tsp
+Tempo: 0.011175
+Custo: 6859.000000
+
+Tempo: 0.006981
+Custo: 6859.000000
+
+Tempo: 0.005229
+Custo: 6859.000000
+
+Tempo: 0.004917
+Custo: 6859.000000
+
+Tempo: 0.004908
+Custo: 6859.000000
+
+Tempo: 0.005154
+Custo: 6859.000000
+
+Tempo: 0.004907
+Custo: 6859.000000
+
+Tempo: 0.004911
+Custo: 6859.000000
+
+Tempo: 0.004940
+Custo: 6859.000000
+
+Tempo: 0.004921
+Custo: 6859.000000
+
+instances/ulysses22.tsp
+Tempo: 0.013353
+Custo: 7013.000000
+
+Tempo: 0.013542
+Custo: 7013.000000
+
+Tempo: 0.013058
+Custo: 7013.000000
+
+Tempo: 0.012935
+Custo: 7013.000000
+
+Tempo: 0.012987
+Custo: 7013.000000
+
+Tempo: 0.013186
+Custo: 7013.000000
+
+Tempo: 0.013042
+Custo: 7013.000000
+
+Tempo: 0.012974
+Custo: 7013.000000
+
+Tempo: 0.012943
+Custo: 7013.000000
+
+Tempo: 0.013197
+Custo: 7013.000000
+
+-
