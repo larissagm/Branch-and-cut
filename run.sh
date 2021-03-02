@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo "--TSP Benchmark--"
+echo "--TSP Benchmark--" >> ./benchmark/bm.txt
 
 make
 
@@ -9,9 +10,9 @@ for instance in instances/*; do
 	echo $instance >> ./benchmark/bm.txt
 
 	echo "Running $instance"
-	echo "Instance $k of 67" 
+	echo "Instance $k of 44" 
 
-	for i in {1..10}; do
+	for i in {1..5}; do
 		./tsp ${instance} >> ./benchmark/bm.txt
 	done
 
@@ -19,5 +20,6 @@ for instance in instances/*; do
 done
 
 echo "-" >> ./benchmark/bm.txt
+echo "Benchmark completed." >> ./benchmark/bm.txt
 
 echo "Benchmark completed."
